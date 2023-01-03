@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ourple">#472183</color>
+    <color name="blue">#4B56D2</color>
+    <color name="lightblue">#82C3EC</color>
+    <color name="darker_white">#F1F6F5</color>
+    <color name="darkblue">#0A2647</color>
+    <color name="darkersilver">#DDDDDD</color>
+    <color name="silver">#787A91</color>
+    <color name="iconColor">#5382a1</color>
+
+    <color name="kotlin_orange">#f88909</color>
+    <color name="kotlin_purple">#7472e2</color>
+    <color name="kotlin_transparent_purple">#6967b8</color>
+    <color name="kotlin_blue">#0095d5</color>
+
+    <color name="python_blue">#274e70</color>
+    <color name="python_yellow">#ffd537</color>
+    <color name="python_transparent_blue">#366e9c</color>
+
+    <color name="js_yellow">#ffe77c</color>
+    <color name="js_transparent">#88805b</color>
+
+    <color name="html_red">#f16529</color>
+    <color name="html_transparent">#654a43</color>
+
+    <color name="css_blue">#343A77</color>
+</resources>

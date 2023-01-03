@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizaApp</string>
+    <string name="coding_nquiz">Coding/nQuiz</string>
+    <string name="i_n_d_e_x">I n d e x</string>
+    <string name="q_u_i_z_e_s">Q u i z e s</string>
+    <string name="java">Java</string>
+    <string name="junior">Junior</string>
+    <string name="Middle">Middle</string>
+    <string name="Kotlin">Kotlin</string>
+
+</resources>
