@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@color/white"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -83,13 +83,15 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:gravity="center">
+
         <LinearLayout
-            android:id="@+id/Java_card"
+            android:id="@+id/java_card"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="vertical"
             android:gravity="center"
+            android:elevation="15dp"
             android:layout_margin="10dp"
             android:background="@drawable/radius_card"
             >
@@ -645,6 +647,7 @@
                         >
 
                         <LinearLayout
+                            android:id="@+id/html_card"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:orientation="horizontal"
