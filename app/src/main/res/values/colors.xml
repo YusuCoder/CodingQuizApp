@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_200">#FC8694</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
@@ -15,6 +15,7 @@
     <color name="darkersilver">#DDDDDD</color>
     <color name="silver">#787A91</color>
     <color name="iconColor">#5382a1</color>
+    <color name="transparent">#00000000</color>
 
     <color name="kotlin_orange">#f88909</color>
     <color name="kotlin_purple">#7472e2</color>
@@ -26,7 +27,7 @@
     <color name="python_transparent_blue">#366e9c</color>
 
     <color name="js_yellow">#ffe77c</color>
-    <color name="js_transparent">#88805b</color>
+    <color name="js_transparent">#E8E8E8</color>
 
     <color name="html_red">#f16529</color>
     <color name="html_transparent">#654a43</color>
